@@ -5,14 +5,13 @@ Jego celem jest wyjscie z lochu za wszelką cene, by się na nich zemścić. Prz
 
 # Przeciwnicy:
   Na swojej drodze napotkamy kilku przeciwników zróżnicowanymi pod względem klas:
- - strażników
- - więżniów
- - psy
- - pająki
- - duchy
+ - ludzie
+ - zwykle zwierzęta
+ - postacie magiczne
+ - zaczarowane zwierzęta
   Każdy przecinik będzie różnił się poziomem trudności i    różnymi umiejętnościami -> magicznymi lub fizycznymi.|
   Z biegiem gry i procentem odblokowanych obszarów te same postacie będą miały większe poziomy, przez co będą trudniejsze do przejścia.
 
 # Przedmioty
-Nasza postać 
+Nasza postać będzie posiadać swój ekwipunek
 
