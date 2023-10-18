@@ -9,9 +9,18 @@ Jego celem jest wyjscie z lochu za wszelką cene, by się na nich zemścić. Prz
  - zwykle zwierzęta
  - postacie magiczne
  - zaczarowane zwierzęta
-  Każdy przecinik będzie różnił się poziomem trudności i    różnymi umiejętnościami -> magicznymi lub fizycznymi.|
+  Każdy przecinik będzie różnił się poziomem trudności i różnymi umiejętnościami -> magicznymi lub fizycznymi.|
   Z biegiem gry i procentem odblokowanych obszarów te same postacie będą miały większe poziomy, przez co będą trudniejsze do przejścia.
+  Postacie będą zbudowane na takiej samej zasadzie co bohater z tą rożnicą , że zależnie od klasy będą mieć punty mocy magicznej, lub   fizycznej bądź obydwu.
 
-# Przedmioty
-Nasza postać będzie posiadać swój ekwipunek
+# Przedmioty i ich rodzaje:
+Nasza postać będzie posiadać swój ekwipunek o stałej pojemności (do ustalenia), będzie on ograniczony pod względem ilości pewnych rodzajów przedmiotów ,czyli na przykład: kilka przedmiotów magicznych, kilka fizycznych itp;
+# Rodzaje:
+- Magiczne - podzielone na te, które leczą, zadają obrażenia lub ulepszają rodzaje broni.
+- Fizyczne - głownie rodzaje broni lub przedmioty jak klucze lub inne elementy świata.
+- Żywność - można je podpiąć pod przedmioty fizyczne, ale będą rozbudowane -> będą leczyć, regenerować życie w czasie rzeczywistym, zwiększać widoczność, szybkość itp (do przemyślenia) -> będą chwilowo ulepszać naszą postać.
+# Bronie:
+Bronie będa podzielone na rodzaje podane wcześniej : magiczne i fizyczne, sam bohater na samym początku jest uzbrojony tylko w pałkę z biegiem gry i odkrywaniem świata będzie mógł on znaleźć w skrzyni lub ukraść bądź zamienić się z postaciami z gry. Bronie będzie można ulepszyć korzystając ze zdobytych przedmiotów (3 punkty rozwoju fizycznej częsci i 3 magicznej).
+# Świat:
+Świat ma być losowy z kilku map na których będą skrzynie z przedmiotami i przestrzenie gdzie będą stacjonować wrodzy.
 
