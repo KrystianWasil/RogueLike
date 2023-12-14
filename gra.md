@@ -5,8 +5,8 @@ Jego celem jest wyjscie z lochu za wszelką cene, by się na nich zemścić. Prz
 
 # Przeciwnicy:
   Na swojej drodze napotkamy kilku przeciwników zróżnicowanymi pod względem klas:
- - ludzie
- - zwykle zwierzęta
+ - ludzie // strażnicy
+ - wygłodniałe psy strażników
  - postacie magiczne
  - zaczarowane zwierzęta
   Każdy przecinik będzie różnił się poziomem trudności i różnymi umiejętnościami -> magicznymi lub fizycznymi.|
