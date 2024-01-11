@@ -1,0 +1,17 @@
+//
+// Created by wasil on 30.11.2023.
+//
+
+#ifndef ROGUELIKE_WALLONMAP_H
+#define ROGUELIKE_WALLONMAP_H
+
+
+#include "Obstacles.h"
+
+class WallOnMap : public Obstacles {
+public:
+    WallOnMap() : Obstacles('#') {}
+};
+
+
+#endif //ROGUELIKE_WALLONMAP_H
