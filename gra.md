@@ -4,12 +4,17 @@ Główny bohater (pirat) został zdradzony przez swoich przyjaciół przez co wy
 Jego celem jest wyjscie z lochu za wszelką cene, by się na nich zemścić. Przez cała swoją podróż bohater stopniowo będzie odkrywał co raz to nowsze zakamarki więzienia i napotykał na swojej drodze przyjaciół bądź też wrogów.
 
 # Przeciwnicy:
-  Na swojej drodze napotkamy kilku przeciwników zróżnicowanymi pod względem klas:
- - ludzie // strażnicy
- - wygłodniałe psy strażników
- - postacie magiczne
- - zaczarowane zwierzęta
-  Każdy przecinik będzie różnił się poziomem trudności i różnymi umiejętnościami -> magicznymi lub fizycznymi.|
+  Na swojej drodze napotkamy kilku przeciwników:
+ - #człowiek:
+   Jest to jeden z podstawowych przeciwników, z którym będziemy walczyć.  Walka początkowo jest wyrównana, dopóki bohater nie nabędzie doświadczenia.
+ - #zwierzęta:
+   Postacie stosunkowo łatwe do pokonania przez większość gry.
+ - #postacie magiczne:
+   Postacie najcięższe do pokonania, dopóki nasza postać sama nie      zbierze przedmiotów magicznych.
+ - #zaczarowane zwierzęta:
+   Postacie ciężkie do pokonania, wymagające umiejętności i przedmiotów.
+
+Każdy przecinik będzie różnił się poziomem trudności i różnymi umiejętnościami -> magicznymi lub fizycznymi.|
   Z biegiem gry i procentem odblokowanych obszarów te same postacie będą miały większe poziomy, przez co będą trudniejsze do przejścia.
   Postacie będą zbudowane na takiej samej zasadzie co bohater z tą rożnicą , że zależnie od klasy będą mieć punty mocy magicznej, lub   fizycznej bądź obydwu.
 
@@ -22,5 +27,5 @@ Nasza postać będzie posiadać swój ekwipunek o stałej pojemności (do ustale
 # Bronie:
 Bronie będa podzielone na rodzaje podane wcześniej : magiczne i fizyczne, sam bohater na samym początku jest uzbrojony tylko w pałkę z biegiem gry i odkrywaniem świata będzie mógł on znaleźć w skrzyni lub ukraść bądź zamienić się z postaciami z gry. Bronie będzie można ulepszyć korzystając ze zdobytych przedmiotów (3 punkty rozwoju fizycznej częsci i 3 magicznej).
 # Świat:
-Świat ma być losowy z kilku map na których będą skrzynie z przedmiotami i przestrzenie gdzie będą stacjonować wrodzy.
+Świat ma być losowy z kilku poziomów na których będą skrzynie z przedmiotami i przestrzenie gdzie będą stacjonować wrodzy.
 
