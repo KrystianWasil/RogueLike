@@ -3,7 +3,7 @@ project(RogueLike)
 
 set(CMAKE_CXX_STANDARD 17)
 
-add_executable(graroguelike/Game main.cpp
+add_executable(RogueLike main.cpp
         Tile.cpp
         Tile.h
         Floor.cpp
