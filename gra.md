@@ -28,4 +28,4 @@ Nasza postać będzie posiadać swój ekwipunek o stałej pojemności (do ustale
 Bronie będa podzielone na rodzaje podane wcześniej : magiczne i fizyczne, sam bohater na samym początku jest uzbrojony tylko w pałkę z biegiem gry i odkrywaniem świata będzie mógł on znaleźć w skrzyni lub ukraść bądź zamienić się z postaciami z gry. Bronie będzie można ulepszyć korzystając ze zdobytych przedmiotów (3 punkty rozwoju fizycznej częsci i 3 magicznej).
 # Świat:
 Świat ma być losowy z kilku poziomów na których będą skrzynie z przedmiotami i przestrzenie gdzie będą stacjonować wrodzy.
-
+Bohater wchodzi na co raz wyższe poziomy mapy, gdzie czekają bardziej zaawansowane psotacie, jednak im wyżej tym przedmioty możliwe do zebrania mają lepsze statystyki.
