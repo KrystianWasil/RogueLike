@@ -97,12 +97,12 @@
 				{
 					"backtrace" : 7,
 					"isSystem" : true,
-					"path" : "/Users/krystianwasil/Desktop/Algusy/graroguelike/Game/Google_tests/lib/googletest/include"
+					"path" : "/Users/krystianwasil/Desktop/Game/graroguelike/Game/Google_tests/lib/googletest/include"
 				},
 				{
 					"backtrace" : 7,
 					"isSystem" : true,
-					"path" : "/Users/krystianwasil/Desktop/Algusy/graroguelike/Game/Google_tests/lib/googletest"
+					"path" : "/Users/krystianwasil/Desktop/Game/graroguelike/Game/Google_tests/lib/googletest"
 				}
 			],
 			"language" : "CXX",

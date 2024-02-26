@@ -1,4 +1,4 @@
-# Install script for directory: /Users/krystianwasil/Desktop/Algusy/graroguelike/Game
+# Install script for directory: /Users/krystianwasil/Desktop/Game/graroguelike/Game
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -39,7 +39,7 @@ endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("/Users/krystianwasil/Desktop/Algusy/graroguelike/Game/cmake-build-debug/Google_tests/cmake_install.cmake")
+  include("/Users/krystianwasil/Desktop/Game/graroguelike/Game/cmake-build-debug/Google_tests/cmake_install.cmake")
 endif()
 
 if(CMAKE_INSTALL_COMPONENT)
@@ -50,5 +50,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/Users/krystianwasil/Desktop/Algusy/graroguelike/Game/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/Users/krystianwasil/Desktop/Game/graroguelike/Game/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

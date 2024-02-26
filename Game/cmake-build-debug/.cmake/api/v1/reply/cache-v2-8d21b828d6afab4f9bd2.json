@@ -67,7 +67,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/Users/krystianwasil/Desktop/Algusy/graroguelike/Game/cmake-build-debug"
+			"value" : "/Users/krystianwasil/Desktop/Game/graroguelike/Game/cmake-build-debug"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -491,7 +491,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/Users/krystianwasil/Desktop/Algusy/graroguelike/Game/cmake-build-debug/CMakeFiles/pkgRedirects"
+			"value" : "/Users/krystianwasil/Desktop/Game/graroguelike/Game/cmake-build-debug/CMakeFiles/pkgRedirects"
 		},
 		{
 			"name" : "CMAKE_GENERATOR",
@@ -563,7 +563,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/Users/krystianwasil/Desktop/Algusy/graroguelike/Game"
+			"value" : "/Users/krystianwasil/Desktop/Game/graroguelike/Game"
 		},
 		{
 			"name" : "CMAKE_INSTALL_BINDIR",
@@ -1503,7 +1503,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/Users/krystianwasil/Desktop/Algusy/graroguelike/Game/cmake-build-debug/Google_tests"
+			"value" : "/Users/krystianwasil/Desktop/Game/graroguelike/Game/cmake-build-debug/Google_tests"
 		},
 		{
 			"name" : "Google_tests_IS_TOP_LEVEL",
@@ -1527,7 +1527,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/Users/krystianwasil/Desktop/Algusy/graroguelike/Game/Google_tests"
+			"value" : "/Users/krystianwasil/Desktop/Game/graroguelike/Game/Google_tests"
 		},
 		{
 			"name" : "INSTALL_GTEST",
@@ -1551,7 +1551,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/Users/krystianwasil/Desktop/Algusy/graroguelike/Game/cmake-build-debug"
+			"value" : "/Users/krystianwasil/Desktop/Game/graroguelike/Game/cmake-build-debug"
 		},
 		{
 			"name" : "RogueLike_IS_TOP_LEVEL",
@@ -1575,7 +1575,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/Users/krystianwasil/Desktop/Algusy/graroguelike/Game"
+			"value" : "/Users/krystianwasil/Desktop/Game/graroguelike/Game"
 		},
 		{
 			"name" : "_GNUInstallDirs_LAST_CMAKE_INSTALL_PREFIX",
@@ -1683,7 +1683,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/Users/krystianwasil/Desktop/Algusy/graroguelike/Game/cmake-build-debug/Google_tests/lib/googletest/generated"
+			"value" : "/Users/krystianwasil/Desktop/Game/graroguelike/Game/cmake-build-debug/Google_tests/lib/googletest/generated"
 		},
 		{
 			"name" : "gmock_BINARY_DIR",
@@ -1695,7 +1695,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/Users/krystianwasil/Desktop/Algusy/graroguelike/Game/cmake-build-debug/Google_tests/lib/googlemock"
+			"value" : "/Users/krystianwasil/Desktop/Game/graroguelike/Game/cmake-build-debug/Google_tests/lib/googlemock"
 		},
 		{
 			"name" : "gmock_IS_TOP_LEVEL",
@@ -1719,7 +1719,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/Users/krystianwasil/Desktop/Algusy/graroguelike/Game/Google_tests/lib/googlemock"
+			"value" : "/Users/krystianwasil/Desktop/Game/graroguelike/Game/Google_tests/lib/googlemock"
 		},
 		{
 			"name" : "gmock_build_tests",
@@ -1747,7 +1747,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/Users/krystianwasil/Desktop/Algusy/graroguelike/Game/cmake-build-debug/Google_tests/lib"
+			"value" : "/Users/krystianwasil/Desktop/Game/graroguelike/Game/cmake-build-debug/Google_tests/lib"
 		},
 		{
 			"name" : "googletest-distribution_IS_TOP_LEVEL",
@@ -1771,7 +1771,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/Users/krystianwasil/Desktop/Algusy/graroguelike/Game/Google_tests/lib"
+			"value" : "/Users/krystianwasil/Desktop/Game/graroguelike/Game/Google_tests/lib"
 		},
 		{
 			"name" : "gtest_BINARY_DIR",
@@ -1783,7 +1783,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/Users/krystianwasil/Desktop/Algusy/graroguelike/Game/cmake-build-debug/Google_tests/lib/googletest"
+			"value" : "/Users/krystianwasil/Desktop/Game/graroguelike/Game/cmake-build-debug/Google_tests/lib/googletest"
 		},
 		{
 			"name" : "gtest_IS_TOP_LEVEL",
@@ -1807,7 +1807,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/Users/krystianwasil/Desktop/Algusy/graroguelike/Game/Google_tests/lib/googletest"
+			"value" : "/Users/krystianwasil/Desktop/Game/graroguelike/Game/Google_tests/lib/googletest"
 		},
 		{
 			"name" : "gtest_build_samples",
